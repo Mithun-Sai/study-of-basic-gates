@@ -1,4 +1,4 @@
-### study-of-basic-gates
+# study-of-basic-gates
 
 **AIM:** 
 
@@ -65,15 +65,33 @@ Y= A⊕B
 **PROGRAM**
 
 Program for logic gates and verify its truth table in quartus using Verilog programming
+```Verilog code
+module log_gat(a,b,c1,c2,c3,c4,c5,c6,c7);
+input a,b;
+output c1,c2,c3,c4,c5,c6,c7;
+not g1(c1,a);
+and g2(c2,a,b);
+or g3(c3,a,b);
+nand g4(c4,a,b);
+nor g5(c5,a,b);
+xor g6(c6,a,b);
+xnor g7(c7,a,b);
+endmodule
+```
 
- Developed by: RegisterNumber: 
+Developed by: Mithun Sai P
+
+RegisterNumber: 212225100026
  
 **Logic symbol & Truthtable**
+<img width="1278" height="870" alt="image" src="https://github.com/user-attachments/assets/a3aaebac-673f-4f05-a540-5f10a9e8bdbb" />
 
 **RTL realization Output:** 
+<img width="1919" height="1129" alt="image" src="https://github.com/user-attachments/assets/f0fac746-7b97-4203-a370-888fa5df426e" />
 
 **RTL**
+<img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/1df71943-912e-408b-aba6-87e7cefa784a" />
 
 **Result:**
-
+Thus the basic logic gate is successfully executed
 
