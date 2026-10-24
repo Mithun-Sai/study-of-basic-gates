@@ -87,10 +87,10 @@ RegisterNumber: 212225100026
 <img width="1278" height="870" alt="image" src="https://github.com/user-attachments/assets/a3aaebac-673f-4f05-a540-5f10a9e8bdbb" />
 
 **RTL realization Output:** 
-<img width="1919" height="1129" alt="image" src="https://github.com/user-attachments/assets/f0fac746-7b97-4203-a370-888fa5df426e" />
+<img width="1366" height="728" alt="image" src="https://github.com/user-attachments/assets/d277cce3-eecc-4139-80f2-e721c12de64e" />
 
 **RTL**
-<img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/1df71943-912e-408b-aba6-87e7cefa784a" />
+<img width="1366" height="728" alt="image" src="https://github.com/user-attachments/assets/6bb2217e-1c37-431c-99fe-2f6e0a8a4eab" />
 
 **Result:**
 Thus the basic logic gate is successfully executed
